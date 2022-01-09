@@ -615,7 +615,7 @@ section {
   text-decoration: underline;
 }
 .our-values .card:hover .card-body {
-  background: #ff7f5d;
+  background: rgb(231, 69, 69);
 }
 .our-values .card:hover .read-more a, .our-values .card:hover .card-title, .our-values .card:hover .card-title a, .our-values .card:hover .card-text {
   color: #fff;
